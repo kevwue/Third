@@ -9,5 +9,16 @@ public class Mainer {
             System.out.println("NUmber"+ i);
 
         }
+
+
+        Car chevy = new Car(500,"red");
+
+
+        chevy.drive(12);
+
+
+
+
+
     }
 }
